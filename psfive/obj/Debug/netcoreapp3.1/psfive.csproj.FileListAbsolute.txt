@@ -1,0 +1,17 @@
+C:\Users\jtkno\source\repos\psfive\psfive\bin\Debug\netcoreapp3.1\psfive.exe
+C:\Users\jtkno\source\repos\psfive\psfive\obj\Debug\netcoreapp3.1\psfive.csprojAssemblyReference.cache
+C:\Users\jtkno\source\repos\psfive\psfive\obj\Debug\netcoreapp3.1\psfive.AssemblyInfoInputs.cache
+C:\Users\jtkno\source\repos\psfive\psfive\obj\Debug\netcoreapp3.1\psfive.AssemblyInfo.cs
+C:\Users\jtkno\source\repos\psfive\psfive\bin\Debug\netcoreapp3.1\chromedriver.exe
+C:\Users\jtkno\source\repos\psfive\psfive\bin\Debug\netcoreapp3.1\psfive.deps.json
+C:\Users\jtkno\source\repos\psfive\psfive\bin\Debug\netcoreapp3.1\psfive.runtimeconfig.json
+C:\Users\jtkno\source\repos\psfive\psfive\bin\Debug\netcoreapp3.1\psfive.runtimeconfig.dev.json
+C:\Users\jtkno\source\repos\psfive\psfive\bin\Debug\netcoreapp3.1\psfive.dll
+C:\Users\jtkno\source\repos\psfive\psfive\bin\Debug\netcoreapp3.1\psfive.pdb
+C:\Users\jtkno\source\repos\psfive\psfive\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jtkno\source\repos\psfive\psfive\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\jtkno\source\repos\psfive\psfive\obj\Debug\netcoreapp3.1\psfive.csproj.CoreCompileInputs.cache
+C:\Users\jtkno\source\repos\psfive\psfive\obj\Debug\netcoreapp3.1\psfive.csproj.CopyComplete
+C:\Users\jtkno\source\repos\psfive\psfive\obj\Debug\netcoreapp3.1\psfive.dll
+C:\Users\jtkno\source\repos\psfive\psfive\obj\Debug\netcoreapp3.1\psfive.pdb
+C:\Users\jtkno\source\repos\psfive\psfive\obj\Debug\netcoreapp3.1\psfive.genruntimeconfig.cache
